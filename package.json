@@ -1,6 +1,6 @@
 {
     "name": "util-darkmode",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Utility package for managing Dark Mode on the web.",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
