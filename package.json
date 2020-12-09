@@ -24,7 +24,8 @@
         "prepare": "npm run build",
         "prepublishOnly": "npm run test",
         "version": "npm run format && git add -A src",
-        "postversion": "git push && git push --tags"
+        "postversion": "git push && git push --tags",
+        "npm": "npm version patch && npm publish"
     },
     "devDependencies": {
         "@types/jest": "^26.0.15",
