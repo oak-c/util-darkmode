@@ -1,4 +1,4 @@
-# 法定节假日查询（中国，定期维护）
+# 设备主题模式监听
 
 ![](https://img.shields.io/badge/Language-TypeScript-orange.svg)
 [![Build Status](https://travis-ci.com/oak-c/util-darkmode.svg?branch=main)](https://travis-ci.com/oak-c/util-darkmode)
